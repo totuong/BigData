@@ -12,3 +12,13 @@ Từ lần sau chỉ cần:
 bash ~/start_hadoop.sh
 Cấp quyền:
 chmod +x ~/stop_hadoop.sh
+
+Spark
+https://downloads.apache.org/spark/spark-3.5.7/
+
+nano install_spark_wsl.sh
+# (Dán toàn bộ nội dung ở trên, rồi Ctrl+O, Enter, Ctrl+X)
+chmod +x install_spark_wsl.sh
+bash install_spark_wsl.sh
+spark-shell --master yarn
+
