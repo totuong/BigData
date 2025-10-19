@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: sjc-crawler
+  main:
+    banner-mode: "off"
+
+app:
+  endpoint: "https://sjc.com.vn/GoldPrice/Services/PriceService.ashx"
+  to-date: "19/10/2025"
+  days: 365
+  output-dir: "data/sjc"
+  single-file: "data/sjc/sjc_prices.csv"
+  user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+  referer: "https://sjc.com.vn/"
+  delay-ms: 500
+  progress-file: "data/sjc/_progress.json"
