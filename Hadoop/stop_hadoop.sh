@@ -1,13 +1,22 @@
 #!/usr/bin/env bash
 set -euo pipefail
+
+# ====== Hadoop Environment ======
 export HADOOP_HOME=/usr/local/hadoop
 export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
-export PATH=$PATH:$HADOOP_HOME/bin:$HADOOP_HOME/sbin:$JAVA_HOME/bin
+# Đặt Hadoop PATH lên đầu để ưu tiên YARN của Hadoop
+export PATH=$HADOOP_HOME/bin:$HADOOP_HOME/sbin:$JAVA_HOME/bin:$PATH
 
-yarn --daemon stop nodemanager || true
-yarn --daemon stop resourcemanager || true
-hdfs --daemon stop secondarynamenode || true
-hdfs --daemon stop datanode || true
-hdfs --daemon stop namenode || true
+# ====== Stop Hadoop daemons ======
+echo "[INFO] Stopping YARN daemons..."
+$HADOOP_HOME/bin/yarn --daemon stop nodemanager || true
+$HADOOP_HOME/bin/yarn --daemon stop resourcemanager || true
 
-echo "Hadoop stopped."
+echo "[INFO] Stopping HDFS daemons..."
+$HADOOP_HOME/bin/hdfs --daemon stop secondarynamenode || true
+$HADOOP_HOME/bin/hdfs --daemon stop datanode || true
+$HADOOP_HOME/bin/hdfs --daemon stop namenode || true
+
+echo "====================================="
+echo "✅ Hadoop stopped successfully."
+echo "====================================="
