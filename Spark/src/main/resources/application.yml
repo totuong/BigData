@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: Spark
+
+  datasource:
+    url: jdbc:oracle:thin:@//34.126.123.190:1521/MYATP_low.adb.oraclecloud.com
+    username: ADMIN
+    password: Abcd12345678!
+    driver-class-name: oracle.jdbc.OracleDriver
+
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+spark:
+  master: local[*]
+  hdfs-uri: hdfs://192.168.38.88:9000  # dùng IP thực thay vì localhost

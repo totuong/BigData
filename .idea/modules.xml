@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BigData.iml" filepath="$PROJECT_DIR$/.idea/BigData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spark.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Spark.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/claw-data.main.iml" filepath="$PROJECT_DIR$/.idea/modules/claw-data.main.iml" />
     </modules>
   </component>
 </project>
