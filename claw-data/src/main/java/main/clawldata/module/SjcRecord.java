@@ -1,5 +1,6 @@
 package main.clawldata.module;
 
+import com.fasterxml.jackson.annotation.JsonRawValue;
 import com.opencsv.bean.CsvBindByName;
 import lombok.*;
 
@@ -18,5 +19,6 @@ public class SjcRecord {
     private String sell;
 
     @CsvBindByName(column = "payload")
+    @JsonRawValue
     private String payload;
 }

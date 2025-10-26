@@ -1,0 +1,5545 @@
+[ {
+  "date" : "02/10/2025",
+  "type" : "136,000",
+  "buy" : "136,000",
+  "sell" : "138,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "136,000",
+    "BuyValue" : 1.36E8,
+    "Sell" : "138,000",
+    "SellValue" : 1.38E8,
+    "BuyDiffer" : "-11,200",
+    "BuyDifferValue" : -1.12E7,
+    "SellDiffer" : "-11,200",
+    "SellDifferValue" : -1.12E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "02/10/2025",
+  "type" : "136,000",
+  "buy" : "136,000",
+  "sell" : "138,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "136,000",
+    "BuyValue" : 1.36E8,
+    "Sell" : "138,000",
+    "SellValue" : 1.38E8,
+    "BuyDiffer" : "-11,200",
+    "BuyDifferValue" : -1.12E7,
+    "SellDiffer" : "-11,200",
+    "SellDifferValue" : -1.12E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "02/10/2025",
+  "type" : "136,000",
+  "buy" : "136,000",
+  "sell" : "138,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "136,000",
+    "BuyValue" : 1.36E8,
+    "Sell" : "138,000",
+    "SellValue" : 1.38E8,
+    "BuyDiffer" : "-11,200",
+    "BuyDifferValue" : -1.12E7,
+    "SellDiffer" : "-11,200",
+    "SellDifferValue" : -1.12E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "02/10/2025",
+  "type" : "136,000",
+  "buy" : "136,000",
+  "sell" : "138,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "136,000",
+    "BuyValue" : 1.36E8,
+    "Sell" : "138,000",
+    "SellValue" : 1.38E8,
+    "BuyDiffer" : "-11,200",
+    "BuyDifferValue" : -1.12E7,
+    "SellDiffer" : "-11,200",
+    "SellDifferValue" : -1.12E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "02/10/2025",
+  "type" : "136,000",
+  "buy" : "136,000",
+  "sell" : "138,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "136,000",
+    "BuyValue" : 1.36E8,
+    "Sell" : "138,000",
+    "SellValue" : 1.38E8,
+    "BuyDiffer" : "-11,200",
+    "BuyDifferValue" : -1.12E7,
+    "SellDiffer" : "-11,200",
+    "SellDifferValue" : -1.12E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "02/10/2025",
+  "type" : "136,000",
+  "buy" : "136,000",
+  "sell" : "138,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "136,000",
+    "BuyValue" : 1.36E8,
+    "Sell" : "138,000",
+    "SellValue" : 1.38E8,
+    "BuyDiffer" : "-11,200",
+    "BuyDifferValue" : -1.12E7,
+    "SellDiffer" : "-11,200",
+    "SellDifferValue" : -1.12E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "02/10/2025",
+  "type" : "136,000",
+  "buy" : "136,000",
+  "sell" : "138,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "136,000",
+    "BuyValue" : 1.36E8,
+    "Sell" : "138,000",
+    "SellValue" : 1.38E8,
+    "BuyDiffer" : "-11,200",
+    "BuyDifferValue" : -1.12E7,
+    "SellDiffer" : "-11,200",
+    "SellDifferValue" : -1.12E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "02/10/2025",
+  "type" : "136,000",
+  "buy" : "136,000",
+  "sell" : "138,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "136,000",
+    "BuyValue" : 1.36E8,
+    "Sell" : "138,000",
+    "SellValue" : 1.38E8,
+    "BuyDiffer" : "-11,200",
+    "BuyDifferValue" : -1.12E7,
+    "SellDiffer" : "-11,200",
+    "SellDifferValue" : -1.12E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "02/10/2025",
+  "type" : "136,000",
+  "buy" : "136,000",
+  "sell" : "138,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "136,000",
+    "BuyValue" : 1.36E8,
+    "Sell" : "138,000",
+    "SellValue" : 1.38E8,
+    "BuyDiffer" : "-11,200",
+    "BuyDifferValue" : -1.12E7,
+    "SellDiffer" : "-11,200",
+    "SellDifferValue" : -1.12E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "02/10/2025",
+  "type" : "136,000",
+  "buy" : "136,000",
+  "sell" : "138,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "136,000",
+    "BuyValue" : 1.36E8,
+    "Sell" : "138,000",
+    "SellValue" : 1.38E8,
+    "BuyDiffer" : "-11,200",
+    "BuyDifferValue" : -1.12E7,
+    "SellDiffer" : "-11,200",
+    "SellDifferValue" : -1.12E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "02/10/2025",
+  "type" : "136,000",
+  "buy" : "136,000",
+  "sell" : "138,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "136,000",
+    "BuyValue" : 1.36E8,
+    "Sell" : "138,000",
+    "SellValue" : 1.38E8,
+    "BuyDiffer" : "-11,200",
+    "BuyDifferValue" : -1.12E7,
+    "SellDiffer" : "-11,200",
+    "SellDifferValue" : -1.12E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "02/10/2025",
+  "type" : "136,000",
+  "buy" : "136,000",
+  "sell" : "138,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "136,000",
+    "BuyValue" : 1.36E8,
+    "Sell" : "138,000",
+    "SellValue" : 1.38E8,
+    "BuyDiffer" : "-11,200",
+    "BuyDifferValue" : -1.12E7,
+    "SellDiffer" : "-11,200",
+    "SellDifferValue" : -1.12E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "03/10/2025",
+  "type" : "135,800",
+  "buy" : "135,800",
+  "sell" : "137,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "135,800",
+    "BuyValue" : 1.358E8,
+    "Sell" : "137,800",
+    "SellValue" : 1.378E8,
+    "BuyDiffer" : "-11,400",
+    "BuyDifferValue" : -1.14E7,
+    "SellDiffer" : "-11,400",
+    "SellDifferValue" : -1.14E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "03/10/2025",
+  "type" : "135,800",
+  "buy" : "135,800",
+  "sell" : "137,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "135,800",
+    "BuyValue" : 1.358E8,
+    "Sell" : "137,800",
+    "SellValue" : 1.378E8,
+    "BuyDiffer" : "-11,400",
+    "BuyDifferValue" : -1.14E7,
+    "SellDiffer" : "-11,400",
+    "SellDifferValue" : -1.14E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "03/10/2025",
+  "type" : "135,800",
+  "buy" : "135,800",
+  "sell" : "137,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "135,800",
+    "BuyValue" : 1.358E8,
+    "Sell" : "137,800",
+    "SellValue" : 1.378E8,
+    "BuyDiffer" : "-11,400",
+    "BuyDifferValue" : -1.14E7,
+    "SellDiffer" : "-11,400",
+    "SellDifferValue" : -1.14E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "03/10/2025",
+  "type" : "135,800",
+  "buy" : "135,800",
+  "sell" : "137,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "135,800",
+    "BuyValue" : 1.358E8,
+    "Sell" : "137,800",
+    "SellValue" : 1.378E8,
+    "BuyDiffer" : "-11,400",
+    "BuyDifferValue" : -1.14E7,
+    "SellDiffer" : "-11,400",
+    "SellDifferValue" : -1.14E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "03/10/2025",
+  "type" : "135,800",
+  "buy" : "135,800",
+  "sell" : "137,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "135,800",
+    "BuyValue" : 1.358E8,
+    "Sell" : "137,800",
+    "SellValue" : 1.378E8,
+    "BuyDiffer" : "-11,400",
+    "BuyDifferValue" : -1.14E7,
+    "SellDiffer" : "-11,400",
+    "SellDifferValue" : -1.14E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "03/10/2025",
+  "type" : "135,800",
+  "buy" : "135,800",
+  "sell" : "137,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "135,800",
+    "BuyValue" : 1.358E8,
+    "Sell" : "137,800",
+    "SellValue" : 1.378E8,
+    "BuyDiffer" : "-11,400",
+    "BuyDifferValue" : -1.14E7,
+    "SellDiffer" : "-11,400",
+    "SellDifferValue" : -1.14E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "03/10/2025",
+  "type" : "135,800",
+  "buy" : "135,800",
+  "sell" : "137,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "135,800",
+    "BuyValue" : 1.358E8,
+    "Sell" : "137,800",
+    "SellValue" : 1.378E8,
+    "BuyDiffer" : "-11,400",
+    "BuyDifferValue" : -1.14E7,
+    "SellDiffer" : "-11,400",
+    "SellDifferValue" : -1.14E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "03/10/2025",
+  "type" : "135,800",
+  "buy" : "135,800",
+  "sell" : "137,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "135,800",
+    "BuyValue" : 1.358E8,
+    "Sell" : "137,800",
+    "SellValue" : 1.378E8,
+    "BuyDiffer" : "-11,400",
+    "BuyDifferValue" : -1.14E7,
+    "SellDiffer" : "-11,400",
+    "SellDifferValue" : -1.14E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "03/10/2025",
+  "type" : "135,800",
+  "buy" : "135,800",
+  "sell" : "137,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "135,800",
+    "BuyValue" : 1.358E8,
+    "Sell" : "137,800",
+    "SellValue" : 1.378E8,
+    "BuyDiffer" : "-11,400",
+    "BuyDifferValue" : -1.14E7,
+    "SellDiffer" : "-11,400",
+    "SellDifferValue" : -1.14E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "03/10/2025",
+  "type" : "135,800",
+  "buy" : "135,800",
+  "sell" : "137,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "135,800",
+    "BuyValue" : 1.358E8,
+    "Sell" : "137,800",
+    "SellValue" : 1.378E8,
+    "BuyDiffer" : "-11,400",
+    "BuyDifferValue" : -1.14E7,
+    "SellDiffer" : "-11,400",
+    "SellDifferValue" : -1.14E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "03/10/2025",
+  "type" : "135,800",
+  "buy" : "135,800",
+  "sell" : "137,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "135,800",
+    "BuyValue" : 1.358E8,
+    "Sell" : "137,800",
+    "SellValue" : 1.378E8,
+    "BuyDiffer" : "-11,400",
+    "BuyDifferValue" : -1.14E7,
+    "SellDiffer" : "-11,400",
+    "SellDifferValue" : -1.14E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "03/10/2025",
+  "type" : "135,800",
+  "buy" : "135,800",
+  "sell" : "137,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "135,800",
+    "BuyValue" : 1.358E8,
+    "Sell" : "137,800",
+    "SellValue" : 1.378E8,
+    "BuyDiffer" : "-11,400",
+    "BuyDifferValue" : -1.14E7,
+    "SellDiffer" : "-11,400",
+    "SellDifferValue" : -1.14E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "04/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "04/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "04/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "04/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "04/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "04/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "04/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "04/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "04/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "04/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "04/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "04/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "05/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "05/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "05/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "05/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "05/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "05/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "05/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "05/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "05/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "05/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "05/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "05/10/2025",
+  "type" : "136,600",
+  "buy" : "136,600",
+  "sell" : "138,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "136,600",
+    "BuyValue" : 1.366E8,
+    "Sell" : "138,600",
+    "SellValue" : 1.386E8,
+    "BuyDiffer" : "-10,600",
+    "BuyDifferValue" : -1.06E7,
+    "SellDiffer" : "-10,600",
+    "SellDifferValue" : -1.06E7,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "06/10/2025",
+  "type" : "138,100",
+  "buy" : "138,100",
+  "sell" : "140,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "138,100",
+    "BuyValue" : 1.381E8,
+    "Sell" : "140,100",
+    "SellValue" : 1.401E8,
+    "BuyDiffer" : "-9,100",
+    "BuyDifferValue" : -9100000.0,
+    "SellDiffer" : "-9,100",
+    "SellDifferValue" : -9100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "06/10/2025",
+  "type" : "138,100",
+  "buy" : "138,100",
+  "sell" : "140,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "138,100",
+    "BuyValue" : 1.381E8,
+    "Sell" : "140,100",
+    "SellValue" : 1.401E8,
+    "BuyDiffer" : "-9,100",
+    "BuyDifferValue" : -9100000.0,
+    "SellDiffer" : "-9,100",
+    "SellDifferValue" : -9100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "06/10/2025",
+  "type" : "138,100",
+  "buy" : "138,100",
+  "sell" : "140,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "138,100",
+    "BuyValue" : 1.381E8,
+    "Sell" : "140,100",
+    "SellValue" : 1.401E8,
+    "BuyDiffer" : "-9,100",
+    "BuyDifferValue" : -9100000.0,
+    "SellDiffer" : "-9,100",
+    "SellDifferValue" : -9100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "06/10/2025",
+  "type" : "138,100",
+  "buy" : "138,100",
+  "sell" : "140,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "138,100",
+    "BuyValue" : 1.381E8,
+    "Sell" : "140,100",
+    "SellValue" : 1.401E8,
+    "BuyDiffer" : "-9,100",
+    "BuyDifferValue" : -9100000.0,
+    "SellDiffer" : "-9,100",
+    "SellDifferValue" : -9100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "06/10/2025",
+  "type" : "138,100",
+  "buy" : "138,100",
+  "sell" : "140,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "138,100",
+    "BuyValue" : 1.381E8,
+    "Sell" : "140,100",
+    "SellValue" : 1.401E8,
+    "BuyDiffer" : "-9,100",
+    "BuyDifferValue" : -9100000.0,
+    "SellDiffer" : "-9,100",
+    "SellDifferValue" : -9100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "06/10/2025",
+  "type" : "138,100",
+  "buy" : "138,100",
+  "sell" : "140,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "138,100",
+    "BuyValue" : 1.381E8,
+    "Sell" : "140,100",
+    "SellValue" : 1.401E8,
+    "BuyDiffer" : "-9,100",
+    "BuyDifferValue" : -9100000.0,
+    "SellDiffer" : "-9,100",
+    "SellDifferValue" : -9100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "06/10/2025",
+  "type" : "138,100",
+  "buy" : "138,100",
+  "sell" : "140,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "138,100",
+    "BuyValue" : 1.381E8,
+    "Sell" : "140,100",
+    "SellValue" : 1.401E8,
+    "BuyDiffer" : "-9,100",
+    "BuyDifferValue" : -9100000.0,
+    "SellDiffer" : "-9,100",
+    "SellDifferValue" : -9100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "06/10/2025",
+  "type" : "138,100",
+  "buy" : "138,100",
+  "sell" : "140,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "138,100",
+    "BuyValue" : 1.381E8,
+    "Sell" : "140,100",
+    "SellValue" : 1.401E8,
+    "BuyDiffer" : "-9,100",
+    "BuyDifferValue" : -9100000.0,
+    "SellDiffer" : "-9,100",
+    "SellDifferValue" : -9100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "06/10/2025",
+  "type" : "138,100",
+  "buy" : "138,100",
+  "sell" : "140,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "138,100",
+    "BuyValue" : 1.381E8,
+    "Sell" : "140,100",
+    "SellValue" : 1.401E8,
+    "BuyDiffer" : "-9,100",
+    "BuyDifferValue" : -9100000.0,
+    "SellDiffer" : "-9,100",
+    "SellDifferValue" : -9100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "06/10/2025",
+  "type" : "138,100",
+  "buy" : "138,100",
+  "sell" : "140,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "138,100",
+    "BuyValue" : 1.381E8,
+    "Sell" : "140,100",
+    "SellValue" : 1.401E8,
+    "BuyDiffer" : "-9,100",
+    "BuyDifferValue" : -9100000.0,
+    "SellDiffer" : "-9,100",
+    "SellDifferValue" : -9100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "06/10/2025",
+  "type" : "138,100",
+  "buy" : "138,100",
+  "sell" : "140,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "138,100",
+    "BuyValue" : 1.381E8,
+    "Sell" : "140,100",
+    "SellValue" : 1.401E8,
+    "BuyDiffer" : "-9,100",
+    "BuyDifferValue" : -9100000.0,
+    "SellDiffer" : "-9,100",
+    "SellDifferValue" : -9100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "06/10/2025",
+  "type" : "138,100",
+  "buy" : "138,100",
+  "sell" : "140,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "138,100",
+    "BuyValue" : 1.381E8,
+    "Sell" : "140,100",
+    "SellValue" : 1.401E8,
+    "BuyDiffer" : "-9,100",
+    "BuyDifferValue" : -9100000.0,
+    "SellDiffer" : "-9,100",
+    "SellDifferValue" : -9100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "07/10/2025",
+  "type" : "138,600",
+  "buy" : "138,600",
+  "sell" : "140,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "138,600",
+    "BuyValue" : 1.386E8,
+    "Sell" : "140,600",
+    "SellValue" : 1.406E8,
+    "BuyDiffer" : "-8,600",
+    "BuyDifferValue" : -8600000.0,
+    "SellDiffer" : "-8,600",
+    "SellDifferValue" : -8600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "07/10/2025",
+  "type" : "138,600",
+  "buy" : "138,600",
+  "sell" : "140,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "138,600",
+    "BuyValue" : 1.386E8,
+    "Sell" : "140,600",
+    "SellValue" : 1.406E8,
+    "BuyDiffer" : "-8,600",
+    "BuyDifferValue" : -8600000.0,
+    "SellDiffer" : "-8,600",
+    "SellDifferValue" : -8600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "07/10/2025",
+  "type" : "138,600",
+  "buy" : "138,600",
+  "sell" : "140,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "138,600",
+    "BuyValue" : 1.386E8,
+    "Sell" : "140,600",
+    "SellValue" : 1.406E8,
+    "BuyDiffer" : "-8,600",
+    "BuyDifferValue" : -8600000.0,
+    "SellDiffer" : "-8,600",
+    "SellDifferValue" : -8600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "07/10/2025",
+  "type" : "138,600",
+  "buy" : "138,600",
+  "sell" : "140,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "138,600",
+    "BuyValue" : 1.386E8,
+    "Sell" : "140,600",
+    "SellValue" : 1.406E8,
+    "BuyDiffer" : "-8,600",
+    "BuyDifferValue" : -8600000.0,
+    "SellDiffer" : "-8,600",
+    "SellDifferValue" : -8600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "07/10/2025",
+  "type" : "138,600",
+  "buy" : "138,600",
+  "sell" : "140,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "138,600",
+    "BuyValue" : 1.386E8,
+    "Sell" : "140,600",
+    "SellValue" : 1.406E8,
+    "BuyDiffer" : "-8,600",
+    "BuyDifferValue" : -8600000.0,
+    "SellDiffer" : "-8,600",
+    "SellDifferValue" : -8600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "07/10/2025",
+  "type" : "138,600",
+  "buy" : "138,600",
+  "sell" : "140,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "138,600",
+    "BuyValue" : 1.386E8,
+    "Sell" : "140,600",
+    "SellValue" : 1.406E8,
+    "BuyDiffer" : "-8,600",
+    "BuyDifferValue" : -8600000.0,
+    "SellDiffer" : "-8,600",
+    "SellDifferValue" : -8600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "07/10/2025",
+  "type" : "138,600",
+  "buy" : "138,600",
+  "sell" : "140,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "138,600",
+    "BuyValue" : 1.386E8,
+    "Sell" : "140,600",
+    "SellValue" : 1.406E8,
+    "BuyDiffer" : "-8,600",
+    "BuyDifferValue" : -8600000.0,
+    "SellDiffer" : "-8,600",
+    "SellDifferValue" : -8600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "07/10/2025",
+  "type" : "138,600",
+  "buy" : "138,600",
+  "sell" : "140,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "138,600",
+    "BuyValue" : 1.386E8,
+    "Sell" : "140,600",
+    "SellValue" : 1.406E8,
+    "BuyDiffer" : "-8,600",
+    "BuyDifferValue" : -8600000.0,
+    "SellDiffer" : "-8,600",
+    "SellDifferValue" : -8600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "07/10/2025",
+  "type" : "138,600",
+  "buy" : "138,600",
+  "sell" : "140,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "138,600",
+    "BuyValue" : 1.386E8,
+    "Sell" : "140,600",
+    "SellValue" : 1.406E8,
+    "BuyDiffer" : "-8,600",
+    "BuyDifferValue" : -8600000.0,
+    "SellDiffer" : "-8,600",
+    "SellDifferValue" : -8600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "07/10/2025",
+  "type" : "138,600",
+  "buy" : "138,600",
+  "sell" : "140,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "138,600",
+    "BuyValue" : 1.386E8,
+    "Sell" : "140,600",
+    "SellValue" : 1.406E8,
+    "BuyDiffer" : "-8,600",
+    "BuyDifferValue" : -8600000.0,
+    "SellDiffer" : "-8,600",
+    "SellDifferValue" : -8600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "07/10/2025",
+  "type" : "138,600",
+  "buy" : "138,600",
+  "sell" : "140,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "138,600",
+    "BuyValue" : 1.386E8,
+    "Sell" : "140,600",
+    "SellValue" : 1.406E8,
+    "BuyDiffer" : "-8,600",
+    "BuyDifferValue" : -8600000.0,
+    "SellDiffer" : "-8,600",
+    "SellDifferValue" : -8600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "07/10/2025",
+  "type" : "138,600",
+  "buy" : "138,600",
+  "sell" : "140,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "138,600",
+    "BuyValue" : 1.386E8,
+    "Sell" : "140,600",
+    "SellValue" : 1.406E8,
+    "BuyDiffer" : "-8,600",
+    "BuyDifferValue" : -8600000.0,
+    "SellDiffer" : "-8,600",
+    "SellDifferValue" : -8600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "08/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "08/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "08/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "08/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "08/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "08/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "08/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "08/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "08/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "08/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "08/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "08/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "09/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "09/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "09/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "09/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "09/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "09/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "09/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "09/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "09/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "09/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "09/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "09/10/2025",
+  "type" : "140,500",
+  "buy" : "140,500",
+  "sell" : "142,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "140,500",
+    "BuyValue" : 1.405E8,
+    "Sell" : "142,500",
+    "SellValue" : 1.425E8,
+    "BuyDiffer" : "-6,700",
+    "BuyDifferValue" : -6700000.0,
+    "SellDiffer" : "-6,700",
+    "SellDifferValue" : -6700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "10/10/2025",
+  "type" : "140,200",
+  "buy" : "140,200",
+  "sell" : "142,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "140,200",
+    "BuyValue" : 1.402E8,
+    "Sell" : "142,200",
+    "SellValue" : 1.422E8,
+    "BuyDiffer" : "-7,000",
+    "BuyDifferValue" : -7000000.0,
+    "SellDiffer" : "-7,000",
+    "SellDifferValue" : -7000000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "10/10/2025",
+  "type" : "140,200",
+  "buy" : "140,200",
+  "sell" : "142,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "140,200",
+    "BuyValue" : 1.402E8,
+    "Sell" : "142,200",
+    "SellValue" : 1.422E8,
+    "BuyDiffer" : "-7,000",
+    "BuyDifferValue" : -7000000.0,
+    "SellDiffer" : "-7,000",
+    "SellDifferValue" : -7000000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "10/10/2025",
+  "type" : "140,200",
+  "buy" : "140,200",
+  "sell" : "142,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "140,200",
+    "BuyValue" : 1.402E8,
+    "Sell" : "142,200",
+    "SellValue" : 1.422E8,
+    "BuyDiffer" : "-7,000",
+    "BuyDifferValue" : -7000000.0,
+    "SellDiffer" : "-7,000",
+    "SellDifferValue" : -7000000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "10/10/2025",
+  "type" : "140,200",
+  "buy" : "140,200",
+  "sell" : "142,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "140,200",
+    "BuyValue" : 1.402E8,
+    "Sell" : "142,200",
+    "SellValue" : 1.422E8,
+    "BuyDiffer" : "-7,000",
+    "BuyDifferValue" : -7000000.0,
+    "SellDiffer" : "-7,000",
+    "SellDifferValue" : -7000000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "10/10/2025",
+  "type" : "140,200",
+  "buy" : "140,200",
+  "sell" : "142,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "140,200",
+    "BuyValue" : 1.402E8,
+    "Sell" : "142,200",
+    "SellValue" : 1.422E8,
+    "BuyDiffer" : "-7,000",
+    "BuyDifferValue" : -7000000.0,
+    "SellDiffer" : "-7,000",
+    "SellDifferValue" : -7000000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "10/10/2025",
+  "type" : "140,200",
+  "buy" : "140,200",
+  "sell" : "142,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "140,200",
+    "BuyValue" : 1.402E8,
+    "Sell" : "142,200",
+    "SellValue" : 1.422E8,
+    "BuyDiffer" : "-7,000",
+    "BuyDifferValue" : -7000000.0,
+    "SellDiffer" : "-7,000",
+    "SellDifferValue" : -7000000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "10/10/2025",
+  "type" : "140,200",
+  "buy" : "140,200",
+  "sell" : "142,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "140,200",
+    "BuyValue" : 1.402E8,
+    "Sell" : "142,200",
+    "SellValue" : 1.422E8,
+    "BuyDiffer" : "-7,000",
+    "BuyDifferValue" : -7000000.0,
+    "SellDiffer" : "-7,000",
+    "SellDifferValue" : -7000000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "10/10/2025",
+  "type" : "140,200",
+  "buy" : "140,200",
+  "sell" : "142,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "140,200",
+    "BuyValue" : 1.402E8,
+    "Sell" : "142,200",
+    "SellValue" : 1.422E8,
+    "BuyDiffer" : "-7,000",
+    "BuyDifferValue" : -7000000.0,
+    "SellDiffer" : "-7,000",
+    "SellDifferValue" : -7000000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "10/10/2025",
+  "type" : "140,200",
+  "buy" : "140,200",
+  "sell" : "142,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "140,200",
+    "BuyValue" : 1.402E8,
+    "Sell" : "142,200",
+    "SellValue" : 1.422E8,
+    "BuyDiffer" : "-7,000",
+    "BuyDifferValue" : -7000000.0,
+    "SellDiffer" : "-7,000",
+    "SellDifferValue" : -7000000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "10/10/2025",
+  "type" : "140,200",
+  "buy" : "140,200",
+  "sell" : "142,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "140,200",
+    "BuyValue" : 1.402E8,
+    "Sell" : "142,200",
+    "SellValue" : 1.422E8,
+    "BuyDiffer" : "-7,000",
+    "BuyDifferValue" : -7000000.0,
+    "SellDiffer" : "-7,000",
+    "SellDifferValue" : -7000000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "10/10/2025",
+  "type" : "140,200",
+  "buy" : "140,200",
+  "sell" : "142,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "140,200",
+    "BuyValue" : 1.402E8,
+    "Sell" : "142,200",
+    "SellValue" : 1.422E8,
+    "BuyDiffer" : "-7,000",
+    "BuyDifferValue" : -7000000.0,
+    "SellDiffer" : "-7,000",
+    "SellDifferValue" : -7000000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "10/10/2025",
+  "type" : "140,200",
+  "buy" : "140,200",
+  "sell" : "142,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "140,200",
+    "BuyValue" : 1.402E8,
+    "Sell" : "142,200",
+    "SellValue" : 1.422E8,
+    "BuyDiffer" : "-7,000",
+    "BuyDifferValue" : -7000000.0,
+    "SellDiffer" : "-7,000",
+    "SellDifferValue" : -7000000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "11/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "11/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "11/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "11/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "11/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "11/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "11/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "11/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "11/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "11/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "11/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "11/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "12/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "12/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "12/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "12/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "12/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "12/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "12/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "12/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "12/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "12/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "12/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "12/10/2025",
+  "type" : "140,800",
+  "buy" : "140,800",
+  "sell" : "142,800",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "140,800",
+    "BuyValue" : 1.408E8,
+    "Sell" : "142,800",
+    "SellValue" : 1.428E8,
+    "BuyDiffer" : "-6,400",
+    "BuyDifferValue" : -6400000.0,
+    "SellDiffer" : "-6,400",
+    "SellDifferValue" : -6400000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "13/10/2025",
+  "type" : "142,100",
+  "buy" : "142,100",
+  "sell" : "144,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "142,100",
+    "BuyValue" : 1.421E8,
+    "Sell" : "144,100",
+    "SellValue" : 1.441E8,
+    "BuyDiffer" : "-5,100",
+    "BuyDifferValue" : -5100000.0,
+    "SellDiffer" : "-5,100",
+    "SellDifferValue" : -5100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "13/10/2025",
+  "type" : "142,100",
+  "buy" : "142,100",
+  "sell" : "144,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "142,100",
+    "BuyValue" : 1.421E8,
+    "Sell" : "144,100",
+    "SellValue" : 1.441E8,
+    "BuyDiffer" : "-5,100",
+    "BuyDifferValue" : -5100000.0,
+    "SellDiffer" : "-5,100",
+    "SellDifferValue" : -5100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "13/10/2025",
+  "type" : "142,100",
+  "buy" : "142,100",
+  "sell" : "144,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "142,100",
+    "BuyValue" : 1.421E8,
+    "Sell" : "144,100",
+    "SellValue" : 1.441E8,
+    "BuyDiffer" : "-5,100",
+    "BuyDifferValue" : -5100000.0,
+    "SellDiffer" : "-5,100",
+    "SellDifferValue" : -5100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "13/10/2025",
+  "type" : "142,100",
+  "buy" : "142,100",
+  "sell" : "144,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "142,100",
+    "BuyValue" : 1.421E8,
+    "Sell" : "144,100",
+    "SellValue" : 1.441E8,
+    "BuyDiffer" : "-5,100",
+    "BuyDifferValue" : -5100000.0,
+    "SellDiffer" : "-5,100",
+    "SellDifferValue" : -5100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "13/10/2025",
+  "type" : "142,100",
+  "buy" : "142,100",
+  "sell" : "144,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "142,100",
+    "BuyValue" : 1.421E8,
+    "Sell" : "144,100",
+    "SellValue" : 1.441E8,
+    "BuyDiffer" : "-5,100",
+    "BuyDifferValue" : -5100000.0,
+    "SellDiffer" : "-5,100",
+    "SellDifferValue" : -5100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "13/10/2025",
+  "type" : "142,100",
+  "buy" : "142,100",
+  "sell" : "144,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "142,100",
+    "BuyValue" : 1.421E8,
+    "Sell" : "144,100",
+    "SellValue" : 1.441E8,
+    "BuyDiffer" : "-5,100",
+    "BuyDifferValue" : -5100000.0,
+    "SellDiffer" : "-5,100",
+    "SellDifferValue" : -5100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "13/10/2025",
+  "type" : "142,100",
+  "buy" : "142,100",
+  "sell" : "144,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "142,100",
+    "BuyValue" : 1.421E8,
+    "Sell" : "144,100",
+    "SellValue" : 1.441E8,
+    "BuyDiffer" : "-5,100",
+    "BuyDifferValue" : -5100000.0,
+    "SellDiffer" : "-5,100",
+    "SellDifferValue" : -5100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "13/10/2025",
+  "type" : "142,100",
+  "buy" : "142,100",
+  "sell" : "144,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "142,100",
+    "BuyValue" : 1.421E8,
+    "Sell" : "144,100",
+    "SellValue" : 1.441E8,
+    "BuyDiffer" : "-5,100",
+    "BuyDifferValue" : -5100000.0,
+    "SellDiffer" : "-5,100",
+    "SellDifferValue" : -5100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "13/10/2025",
+  "type" : "142,100",
+  "buy" : "142,100",
+  "sell" : "144,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "142,100",
+    "BuyValue" : 1.421E8,
+    "Sell" : "144,100",
+    "SellValue" : 1.441E8,
+    "BuyDiffer" : "-5,100",
+    "BuyDifferValue" : -5100000.0,
+    "SellDiffer" : "-5,100",
+    "SellDifferValue" : -5100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "13/10/2025",
+  "type" : "142,100",
+  "buy" : "142,100",
+  "sell" : "144,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "142,100",
+    "BuyValue" : 1.421E8,
+    "Sell" : "144,100",
+    "SellValue" : 1.441E8,
+    "BuyDiffer" : "-5,100",
+    "BuyDifferValue" : -5100000.0,
+    "SellDiffer" : "-5,100",
+    "SellDifferValue" : -5100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "13/10/2025",
+  "type" : "142,100",
+  "buy" : "142,100",
+  "sell" : "144,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "142,100",
+    "BuyValue" : 1.421E8,
+    "Sell" : "144,100",
+    "SellValue" : 1.441E8,
+    "BuyDiffer" : "-5,100",
+    "BuyDifferValue" : -5100000.0,
+    "SellDiffer" : "-5,100",
+    "SellDifferValue" : -5100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "13/10/2025",
+  "type" : "142,100",
+  "buy" : "142,100",
+  "sell" : "144,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "142,100",
+    "BuyValue" : 1.421E8,
+    "Sell" : "144,100",
+    "SellValue" : 1.441E8,
+    "BuyDiffer" : "-5,100",
+    "BuyDifferValue" : -5100000.0,
+    "SellDiffer" : "-5,100",
+    "SellDifferValue" : -5100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "14/10/2025",
+  "type" : "144,100",
+  "buy" : "144,100",
+  "sell" : "146,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "144,100",
+    "BuyValue" : 1.441E8,
+    "Sell" : "146,100",
+    "SellValue" : 1.461E8,
+    "BuyDiffer" : "-3,100",
+    "BuyDifferValue" : -3100000.0,
+    "SellDiffer" : "-3,100",
+    "SellDifferValue" : -3100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "14/10/2025",
+  "type" : "144,100",
+  "buy" : "144,100",
+  "sell" : "146,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "144,100",
+    "BuyValue" : 1.441E8,
+    "Sell" : "146,100",
+    "SellValue" : 1.461E8,
+    "BuyDiffer" : "-3,100",
+    "BuyDifferValue" : -3100000.0,
+    "SellDiffer" : "-3,100",
+    "SellDifferValue" : -3100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "14/10/2025",
+  "type" : "144,100",
+  "buy" : "144,100",
+  "sell" : "146,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "144,100",
+    "BuyValue" : 1.441E8,
+    "Sell" : "146,100",
+    "SellValue" : 1.461E8,
+    "BuyDiffer" : "-3,100",
+    "BuyDifferValue" : -3100000.0,
+    "SellDiffer" : "-3,100",
+    "SellDifferValue" : -3100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "14/10/2025",
+  "type" : "144,100",
+  "buy" : "144,100",
+  "sell" : "146,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "144,100",
+    "BuyValue" : 1.441E8,
+    "Sell" : "146,100",
+    "SellValue" : 1.461E8,
+    "BuyDiffer" : "-3,100",
+    "BuyDifferValue" : -3100000.0,
+    "SellDiffer" : "-3,100",
+    "SellDifferValue" : -3100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "14/10/2025",
+  "type" : "144,100",
+  "buy" : "144,100",
+  "sell" : "146,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "144,100",
+    "BuyValue" : 1.441E8,
+    "Sell" : "146,100",
+    "SellValue" : 1.461E8,
+    "BuyDiffer" : "-3,100",
+    "BuyDifferValue" : -3100000.0,
+    "SellDiffer" : "-3,100",
+    "SellDifferValue" : -3100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "14/10/2025",
+  "type" : "144,100",
+  "buy" : "144,100",
+  "sell" : "146,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "144,100",
+    "BuyValue" : 1.441E8,
+    "Sell" : "146,100",
+    "SellValue" : 1.461E8,
+    "BuyDiffer" : "-3,100",
+    "BuyDifferValue" : -3100000.0,
+    "SellDiffer" : "-3,100",
+    "SellDifferValue" : -3100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "14/10/2025",
+  "type" : "144,100",
+  "buy" : "144,100",
+  "sell" : "146,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "144,100",
+    "BuyValue" : 1.441E8,
+    "Sell" : "146,100",
+    "SellValue" : 1.461E8,
+    "BuyDiffer" : "-3,100",
+    "BuyDifferValue" : -3100000.0,
+    "SellDiffer" : "-3,100",
+    "SellDifferValue" : -3100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "14/10/2025",
+  "type" : "144,100",
+  "buy" : "144,100",
+  "sell" : "146,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "144,100",
+    "BuyValue" : 1.441E8,
+    "Sell" : "146,100",
+    "SellValue" : 1.461E8,
+    "BuyDiffer" : "-3,100",
+    "BuyDifferValue" : -3100000.0,
+    "SellDiffer" : "-3,100",
+    "SellDifferValue" : -3100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "14/10/2025",
+  "type" : "144,100",
+  "buy" : "144,100",
+  "sell" : "146,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "144,100",
+    "BuyValue" : 1.441E8,
+    "Sell" : "146,100",
+    "SellValue" : 1.461E8,
+    "BuyDiffer" : "-3,100",
+    "BuyDifferValue" : -3100000.0,
+    "SellDiffer" : "-3,100",
+    "SellDifferValue" : -3100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "14/10/2025",
+  "type" : "144,100",
+  "buy" : "144,100",
+  "sell" : "146,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "144,100",
+    "BuyValue" : 1.441E8,
+    "Sell" : "146,100",
+    "SellValue" : 1.461E8,
+    "BuyDiffer" : "-3,100",
+    "BuyDifferValue" : -3100000.0,
+    "SellDiffer" : "-3,100",
+    "SellDifferValue" : -3100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "14/10/2025",
+  "type" : "144,100",
+  "buy" : "144,100",
+  "sell" : "146,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "144,100",
+    "BuyValue" : 1.441E8,
+    "Sell" : "146,100",
+    "SellValue" : 1.461E8,
+    "BuyDiffer" : "-3,100",
+    "BuyDifferValue" : -3100000.0,
+    "SellDiffer" : "-3,100",
+    "SellDifferValue" : -3100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "14/10/2025",
+  "type" : "144,100",
+  "buy" : "144,100",
+  "sell" : "146,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "144,100",
+    "BuyValue" : 1.441E8,
+    "Sell" : "146,100",
+    "SellValue" : 1.461E8,
+    "BuyDiffer" : "-3,100",
+    "BuyDifferValue" : -3100000.0,
+    "SellDiffer" : "-3,100",
+    "SellDifferValue" : -3100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "15/10/2025",
+  "type" : "146,000",
+  "buy" : "146,000",
+  "sell" : "148,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "146,000",
+    "BuyValue" : 1.46E8,
+    "Sell" : "148,000",
+    "SellValue" : 1.48E8,
+    "BuyDiffer" : "-1,200",
+    "BuyDifferValue" : -1200000.0,
+    "SellDiffer" : "-1,200",
+    "SellDifferValue" : -1200000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "15/10/2025",
+  "type" : "146,000",
+  "buy" : "146,000",
+  "sell" : "148,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "146,000",
+    "BuyValue" : 1.46E8,
+    "Sell" : "148,000",
+    "SellValue" : 1.48E8,
+    "BuyDiffer" : "-1,200",
+    "BuyDifferValue" : -1200000.0,
+    "SellDiffer" : "-1,200",
+    "SellDifferValue" : -1200000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "15/10/2025",
+  "type" : "146,000",
+  "buy" : "146,000",
+  "sell" : "148,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "146,000",
+    "BuyValue" : 1.46E8,
+    "Sell" : "148,000",
+    "SellValue" : 1.48E8,
+    "BuyDiffer" : "-1,200",
+    "BuyDifferValue" : -1200000.0,
+    "SellDiffer" : "-1,200",
+    "SellDifferValue" : -1200000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "15/10/2025",
+  "type" : "146,000",
+  "buy" : "146,000",
+  "sell" : "148,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "146,000",
+    "BuyValue" : 1.46E8,
+    "Sell" : "148,000",
+    "SellValue" : 1.48E8,
+    "BuyDiffer" : "-1,200",
+    "BuyDifferValue" : -1200000.0,
+    "SellDiffer" : "-1,200",
+    "SellDifferValue" : -1200000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "15/10/2025",
+  "type" : "146,000",
+  "buy" : "146,000",
+  "sell" : "148,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "146,000",
+    "BuyValue" : 1.46E8,
+    "Sell" : "148,000",
+    "SellValue" : 1.48E8,
+    "BuyDiffer" : "-1,200",
+    "BuyDifferValue" : -1200000.0,
+    "SellDiffer" : "-1,200",
+    "SellDifferValue" : -1200000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "15/10/2025",
+  "type" : "146,000",
+  "buy" : "146,000",
+  "sell" : "148,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "146,000",
+    "BuyValue" : 1.46E8,
+    "Sell" : "148,000",
+    "SellValue" : 1.48E8,
+    "BuyDiffer" : "-1,200",
+    "BuyDifferValue" : -1200000.0,
+    "SellDiffer" : "-1,200",
+    "SellDifferValue" : -1200000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "15/10/2025",
+  "type" : "146,000",
+  "buy" : "146,000",
+  "sell" : "148,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "146,000",
+    "BuyValue" : 1.46E8,
+    "Sell" : "148,000",
+    "SellValue" : 1.48E8,
+    "BuyDiffer" : "-1,200",
+    "BuyDifferValue" : -1200000.0,
+    "SellDiffer" : "-1,200",
+    "SellDifferValue" : -1200000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "15/10/2025",
+  "type" : "146,000",
+  "buy" : "146,000",
+  "sell" : "148,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "146,000",
+    "BuyValue" : 1.46E8,
+    "Sell" : "148,000",
+    "SellValue" : 1.48E8,
+    "BuyDiffer" : "-1,200",
+    "BuyDifferValue" : -1200000.0,
+    "SellDiffer" : "-1,200",
+    "SellDifferValue" : -1200000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "15/10/2025",
+  "type" : "146,000",
+  "buy" : "146,000",
+  "sell" : "148,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "146,000",
+    "BuyValue" : 1.46E8,
+    "Sell" : "148,000",
+    "SellValue" : 1.48E8,
+    "BuyDiffer" : "-1,200",
+    "BuyDifferValue" : -1200000.0,
+    "SellDiffer" : "-1,200",
+    "SellDifferValue" : -1200000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "15/10/2025",
+  "type" : "146,000",
+  "buy" : "146,000",
+  "sell" : "148,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "146,000",
+    "BuyValue" : 1.46E8,
+    "Sell" : "148,000",
+    "SellValue" : 1.48E8,
+    "BuyDiffer" : "-1,200",
+    "BuyDifferValue" : -1200000.0,
+    "SellDiffer" : "-1,200",
+    "SellDifferValue" : -1200000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "15/10/2025",
+  "type" : "146,000",
+  "buy" : "146,000",
+  "sell" : "148,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "146,000",
+    "BuyValue" : 1.46E8,
+    "Sell" : "148,000",
+    "SellValue" : 1.48E8,
+    "BuyDiffer" : "-1,200",
+    "BuyDifferValue" : -1200000.0,
+    "SellDiffer" : "-1,200",
+    "SellDifferValue" : -1200000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "15/10/2025",
+  "type" : "146,000",
+  "buy" : "146,000",
+  "sell" : "148,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "146,000",
+    "BuyValue" : 1.46E8,
+    "Sell" : "148,000",
+    "SellValue" : 1.48E8,
+    "BuyDiffer" : "-1,200",
+    "BuyDifferValue" : -1200000.0,
+    "SellDiffer" : "-1,200",
+    "SellDifferValue" : -1200000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "16/10/2025",
+  "type" : "147,100",
+  "buy" : "147,100",
+  "sell" : "149,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "147,100",
+    "BuyValue" : 1.471E8,
+    "Sell" : "149,100",
+    "SellValue" : 1.491E8,
+    "BuyDiffer" : "-100",
+    "BuyDifferValue" : -100000.0,
+    "SellDiffer" : "-100",
+    "SellDifferValue" : -100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "16/10/2025",
+  "type" : "147,100",
+  "buy" : "147,100",
+  "sell" : "149,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "147,100",
+    "BuyValue" : 1.471E8,
+    "Sell" : "149,100",
+    "SellValue" : 1.491E8,
+    "BuyDiffer" : "-100",
+    "BuyDifferValue" : -100000.0,
+    "SellDiffer" : "-100",
+    "SellDifferValue" : -100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "16/10/2025",
+  "type" : "147,100",
+  "buy" : "147,100",
+  "sell" : "149,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "147,100",
+    "BuyValue" : 1.471E8,
+    "Sell" : "149,100",
+    "SellValue" : 1.491E8,
+    "BuyDiffer" : "-100",
+    "BuyDifferValue" : -100000.0,
+    "SellDiffer" : "-100",
+    "SellDifferValue" : -100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "16/10/2025",
+  "type" : "147,100",
+  "buy" : "147,100",
+  "sell" : "149,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "147,100",
+    "BuyValue" : 1.471E8,
+    "Sell" : "149,100",
+    "SellValue" : 1.491E8,
+    "BuyDiffer" : "-100",
+    "BuyDifferValue" : -100000.0,
+    "SellDiffer" : "-100",
+    "SellDifferValue" : -100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "16/10/2025",
+  "type" : "147,100",
+  "buy" : "147,100",
+  "sell" : "149,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "147,100",
+    "BuyValue" : 1.471E8,
+    "Sell" : "149,100",
+    "SellValue" : 1.491E8,
+    "BuyDiffer" : "-100",
+    "BuyDifferValue" : -100000.0,
+    "SellDiffer" : "-100",
+    "SellDifferValue" : -100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "16/10/2025",
+  "type" : "147,100",
+  "buy" : "147,100",
+  "sell" : "149,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "147,100",
+    "BuyValue" : 1.471E8,
+    "Sell" : "149,100",
+    "SellValue" : 1.491E8,
+    "BuyDiffer" : "-100",
+    "BuyDifferValue" : -100000.0,
+    "SellDiffer" : "-100",
+    "SellDifferValue" : -100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "16/10/2025",
+  "type" : "147,100",
+  "buy" : "147,100",
+  "sell" : "149,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "147,100",
+    "BuyValue" : 1.471E8,
+    "Sell" : "149,100",
+    "SellValue" : 1.491E8,
+    "BuyDiffer" : "-100",
+    "BuyDifferValue" : -100000.0,
+    "SellDiffer" : "-100",
+    "SellDifferValue" : -100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "16/10/2025",
+  "type" : "147,100",
+  "buy" : "147,100",
+  "sell" : "149,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "147,100",
+    "BuyValue" : 1.471E8,
+    "Sell" : "149,100",
+    "SellValue" : 1.491E8,
+    "BuyDiffer" : "-100",
+    "BuyDifferValue" : -100000.0,
+    "SellDiffer" : "-100",
+    "SellDifferValue" : -100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "16/10/2025",
+  "type" : "147,100",
+  "buy" : "147,100",
+  "sell" : "149,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "147,100",
+    "BuyValue" : 1.471E8,
+    "Sell" : "149,100",
+    "SellValue" : 1.491E8,
+    "BuyDiffer" : "-100",
+    "BuyDifferValue" : -100000.0,
+    "SellDiffer" : "-100",
+    "SellDifferValue" : -100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "16/10/2025",
+  "type" : "147,100",
+  "buy" : "147,100",
+  "sell" : "149,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "147,100",
+    "BuyValue" : 1.471E8,
+    "Sell" : "149,100",
+    "SellValue" : 1.491E8,
+    "BuyDiffer" : "-100",
+    "BuyDifferValue" : -100000.0,
+    "SellDiffer" : "-100",
+    "SellDifferValue" : -100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "16/10/2025",
+  "type" : "147,100",
+  "buy" : "147,100",
+  "sell" : "149,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "147,100",
+    "BuyValue" : 1.471E8,
+    "Sell" : "149,100",
+    "SellValue" : 1.491E8,
+    "BuyDiffer" : "-100",
+    "BuyDifferValue" : -100000.0,
+    "SellDiffer" : "-100",
+    "SellDifferValue" : -100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "16/10/2025",
+  "type" : "147,100",
+  "buy" : "147,100",
+  "sell" : "149,100",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "147,100",
+    "BuyValue" : 1.471E8,
+    "Sell" : "149,100",
+    "SellValue" : 1.491E8,
+    "BuyDiffer" : "-100",
+    "BuyDifferValue" : -100000.0,
+    "SellDiffer" : "-100",
+    "SellDifferValue" : -100000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "17/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "153,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "153,000",
+    "SellValue" : 1.53E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,800",
+    "SellDifferValue" : 3800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "17/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "153,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "153,000",
+    "SellValue" : 1.53E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,800",
+    "SellDifferValue" : 3800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "17/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "153,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "153,000",
+    "SellValue" : 1.53E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,800",
+    "SellDifferValue" : 3800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "17/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "153,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "153,000",
+    "SellValue" : 1.53E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,800",
+    "SellDifferValue" : 3800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "17/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "153,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "153,000",
+    "SellValue" : 1.53E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,800",
+    "SellDifferValue" : 3800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "17/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "153,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "153,000",
+    "SellValue" : 1.53E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,800",
+    "SellDifferValue" : 3800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "17/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "153,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "153,000",
+    "SellValue" : 1.53E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,800",
+    "SellDifferValue" : 3800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "17/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "153,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "153,000",
+    "SellValue" : 1.53E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,800",
+    "SellDifferValue" : 3800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "17/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "153,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "153,000",
+    "SellValue" : 1.53E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,800",
+    "SellDifferValue" : 3800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "17/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "153,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "153,000",
+    "SellValue" : 1.53E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,800",
+    "SellDifferValue" : 3800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "17/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "153,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "153,000",
+    "SellValue" : 1.53E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,800",
+    "SellDifferValue" : 3800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "17/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "153,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "153,000",
+    "SellValue" : 1.53E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,800",
+    "SellDifferValue" : 3800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "18/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "18/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "18/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "18/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "18/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "18/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "18/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "18/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "18/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "18/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "18/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "18/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "19/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "19/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "19/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "19/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "19/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "19/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "19/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "19/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "19/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "19/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "19/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "19/10/2025",
+  "type" : "149,500",
+  "buy" : "149,500",
+  "sell" : "151,000",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "149,500",
+    "BuyValue" : 1.495E8,
+    "Sell" : "151,000",
+    "SellValue" : 1.51E8,
+    "BuyDiffer" : "2,300",
+    "BuyDifferValue" : 2300000.0,
+    "SellDiffer" : "1,800",
+    "SellDifferValue" : 1800000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "20/10/2025",
+  "type" : "150,500",
+  "buy" : "150,500",
+  "sell" : "151,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "150,500",
+    "BuyValue" : 1.505E8,
+    "Sell" : "151,500",
+    "SellValue" : 1.515E8,
+    "BuyDiffer" : "3,300",
+    "BuyDifferValue" : 3300000.0,
+    "SellDiffer" : "2,300",
+    "SellDifferValue" : 2300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "20/10/2025",
+  "type" : "150,500",
+  "buy" : "150,500",
+  "sell" : "151,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "150,500",
+    "BuyValue" : 1.505E8,
+    "Sell" : "151,500",
+    "SellValue" : 1.515E8,
+    "BuyDiffer" : "3,300",
+    "BuyDifferValue" : 3300000.0,
+    "SellDiffer" : "2,300",
+    "SellDifferValue" : 2300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "20/10/2025",
+  "type" : "150,500",
+  "buy" : "150,500",
+  "sell" : "151,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "150,500",
+    "BuyValue" : 1.505E8,
+    "Sell" : "151,500",
+    "SellValue" : 1.515E8,
+    "BuyDiffer" : "3,300",
+    "BuyDifferValue" : 3300000.0,
+    "SellDiffer" : "2,300",
+    "SellDifferValue" : 2300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "20/10/2025",
+  "type" : "150,500",
+  "buy" : "150,500",
+  "sell" : "151,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "150,500",
+    "BuyValue" : 1.505E8,
+    "Sell" : "151,500",
+    "SellValue" : 1.515E8,
+    "BuyDiffer" : "3,300",
+    "BuyDifferValue" : 3300000.0,
+    "SellDiffer" : "2,300",
+    "SellDifferValue" : 2300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "20/10/2025",
+  "type" : "150,500",
+  "buy" : "150,500",
+  "sell" : "151,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "150,500",
+    "BuyValue" : 1.505E8,
+    "Sell" : "151,500",
+    "SellValue" : 1.515E8,
+    "BuyDiffer" : "3,300",
+    "BuyDifferValue" : 3300000.0,
+    "SellDiffer" : "2,300",
+    "SellDifferValue" : 2300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "20/10/2025",
+  "type" : "150,500",
+  "buy" : "150,500",
+  "sell" : "151,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "150,500",
+    "BuyValue" : 1.505E8,
+    "Sell" : "151,500",
+    "SellValue" : 1.515E8,
+    "BuyDiffer" : "3,300",
+    "BuyDifferValue" : 3300000.0,
+    "SellDiffer" : "2,300",
+    "SellDifferValue" : 2300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "20/10/2025",
+  "type" : "150,500",
+  "buy" : "150,500",
+  "sell" : "151,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "150,500",
+    "BuyValue" : 1.505E8,
+    "Sell" : "151,500",
+    "SellValue" : 1.515E8,
+    "BuyDiffer" : "3,300",
+    "BuyDifferValue" : 3300000.0,
+    "SellDiffer" : "2,300",
+    "SellDifferValue" : 2300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "20/10/2025",
+  "type" : "150,500",
+  "buy" : "150,500",
+  "sell" : "151,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "150,500",
+    "BuyValue" : 1.505E8,
+    "Sell" : "151,500",
+    "SellValue" : 1.515E8,
+    "BuyDiffer" : "3,300",
+    "BuyDifferValue" : 3300000.0,
+    "SellDiffer" : "2,300",
+    "SellDifferValue" : 2300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "20/10/2025",
+  "type" : "150,500",
+  "buy" : "150,500",
+  "sell" : "151,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "150,500",
+    "BuyValue" : 1.505E8,
+    "Sell" : "151,500",
+    "SellValue" : 1.515E8,
+    "BuyDiffer" : "3,300",
+    "BuyDifferValue" : 3300000.0,
+    "SellDiffer" : "2,300",
+    "SellDifferValue" : 2300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "20/10/2025",
+  "type" : "150,500",
+  "buy" : "150,500",
+  "sell" : "151,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "150,500",
+    "BuyValue" : 1.505E8,
+    "Sell" : "151,500",
+    "SellValue" : 1.515E8,
+    "BuyDiffer" : "3,300",
+    "BuyDifferValue" : 3300000.0,
+    "SellDiffer" : "2,300",
+    "SellDifferValue" : 2300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "20/10/2025",
+  "type" : "150,500",
+  "buy" : "150,500",
+  "sell" : "151,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "150,500",
+    "BuyValue" : 1.505E8,
+    "Sell" : "151,500",
+    "SellValue" : 1.515E8,
+    "BuyDiffer" : "3,300",
+    "BuyDifferValue" : 3300000.0,
+    "SellDiffer" : "2,300",
+    "SellDifferValue" : 2300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "20/10/2025",
+  "type" : "150,500",
+  "buy" : "150,500",
+  "sell" : "151,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "150,500",
+    "BuyValue" : 1.505E8,
+    "Sell" : "151,500",
+    "SellValue" : 1.515E8,
+    "BuyDiffer" : "3,300",
+    "BuyDifferValue" : 3300000.0,
+    "SellDiffer" : "2,300",
+    "SellDifferValue" : 2300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "21/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "152,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "152,500",
+    "SellValue" : 1.525E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,300",
+    "SellDifferValue" : 3300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "21/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "152,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "152,500",
+    "SellValue" : 1.525E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,300",
+    "SellDifferValue" : 3300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "21/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "152,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "152,500",
+    "SellValue" : 1.525E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,300",
+    "SellDifferValue" : 3300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "21/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "152,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "152,500",
+    "SellValue" : 1.525E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,300",
+    "SellDifferValue" : 3300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "21/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "152,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "152,500",
+    "SellValue" : 1.525E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,300",
+    "SellDifferValue" : 3300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "21/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "152,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "152,500",
+    "SellValue" : 1.525E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,300",
+    "SellDifferValue" : 3300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "21/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "152,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "152,500",
+    "SellValue" : 1.525E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,300",
+    "SellDifferValue" : 3300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "21/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "152,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "152,500",
+    "SellValue" : 1.525E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,300",
+    "SellDifferValue" : 3300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "21/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "152,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "152,500",
+    "SellValue" : 1.525E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,300",
+    "SellDifferValue" : 3300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "21/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "152,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "152,500",
+    "SellValue" : 1.525E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,300",
+    "SellDifferValue" : 3300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "21/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "152,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "152,500",
+    "SellValue" : 1.525E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,300",
+    "SellDifferValue" : 3300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "21/10/2025",
+  "type" : "151,500",
+  "buy" : "151,500",
+  "sell" : "152,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "151,500",
+    "BuyValue" : 1.515E8,
+    "Sell" : "152,500",
+    "SellValue" : 1.525E8,
+    "BuyDiffer" : "4,300",
+    "BuyDifferValue" : 4300000.0,
+    "SellDiffer" : "3,300",
+    "SellDifferValue" : 3300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "22/10/2025",
+  "type" : "146,600",
+  "buy" : "146,600",
+  "sell" : "148,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "146,600",
+    "BuyValue" : 1.466E8,
+    "Sell" : "148,600",
+    "SellValue" : 1.486E8,
+    "BuyDiffer" : "-600",
+    "BuyDifferValue" : -600000.0,
+    "SellDiffer" : "-600",
+    "SellDifferValue" : -600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "22/10/2025",
+  "type" : "146,600",
+  "buy" : "146,600",
+  "sell" : "148,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "146,600",
+    "BuyValue" : 1.466E8,
+    "Sell" : "148,600",
+    "SellValue" : 1.486E8,
+    "BuyDiffer" : "-600",
+    "BuyDifferValue" : -600000.0,
+    "SellDiffer" : "-600",
+    "SellDifferValue" : -600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "22/10/2025",
+  "type" : "146,600",
+  "buy" : "146,600",
+  "sell" : "148,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "146,600",
+    "BuyValue" : 1.466E8,
+    "Sell" : "148,600",
+    "SellValue" : 1.486E8,
+    "BuyDiffer" : "-600",
+    "BuyDifferValue" : -600000.0,
+    "SellDiffer" : "-600",
+    "SellDifferValue" : -600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "22/10/2025",
+  "type" : "146,600",
+  "buy" : "146,600",
+  "sell" : "148,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "146,600",
+    "BuyValue" : 1.466E8,
+    "Sell" : "148,600",
+    "SellValue" : 1.486E8,
+    "BuyDiffer" : "-600",
+    "BuyDifferValue" : -600000.0,
+    "SellDiffer" : "-600",
+    "SellDifferValue" : -600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "22/10/2025",
+  "type" : "146,600",
+  "buy" : "146,600",
+  "sell" : "148,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "146,600",
+    "BuyValue" : 1.466E8,
+    "Sell" : "148,600",
+    "SellValue" : 1.486E8,
+    "BuyDiffer" : "-600",
+    "BuyDifferValue" : -600000.0,
+    "SellDiffer" : "-600",
+    "SellDifferValue" : -600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "22/10/2025",
+  "type" : "146,600",
+  "buy" : "146,600",
+  "sell" : "148,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "146,600",
+    "BuyValue" : 1.466E8,
+    "Sell" : "148,600",
+    "SellValue" : 1.486E8,
+    "BuyDiffer" : "-600",
+    "BuyDifferValue" : -600000.0,
+    "SellDiffer" : "-600",
+    "SellDifferValue" : -600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "22/10/2025",
+  "type" : "146,600",
+  "buy" : "146,600",
+  "sell" : "148,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "146,600",
+    "BuyValue" : 1.466E8,
+    "Sell" : "148,600",
+    "SellValue" : 1.486E8,
+    "BuyDiffer" : "-600",
+    "BuyDifferValue" : -600000.0,
+    "SellDiffer" : "-600",
+    "SellDifferValue" : -600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "22/10/2025",
+  "type" : "146,600",
+  "buy" : "146,600",
+  "sell" : "148,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "146,600",
+    "BuyValue" : 1.466E8,
+    "Sell" : "148,600",
+    "SellValue" : 1.486E8,
+    "BuyDiffer" : "-600",
+    "BuyDifferValue" : -600000.0,
+    "SellDiffer" : "-600",
+    "SellDifferValue" : -600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "22/10/2025",
+  "type" : "146,600",
+  "buy" : "146,600",
+  "sell" : "148,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "146,600",
+    "BuyValue" : 1.466E8,
+    "Sell" : "148,600",
+    "SellValue" : 1.486E8,
+    "BuyDiffer" : "-600",
+    "BuyDifferValue" : -600000.0,
+    "SellDiffer" : "-600",
+    "SellDifferValue" : -600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "22/10/2025",
+  "type" : "146,600",
+  "buy" : "146,600",
+  "sell" : "148,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "146,600",
+    "BuyValue" : 1.466E8,
+    "Sell" : "148,600",
+    "SellValue" : 1.486E8,
+    "BuyDiffer" : "-600",
+    "BuyDifferValue" : -600000.0,
+    "SellDiffer" : "-600",
+    "SellDifferValue" : -600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "22/10/2025",
+  "type" : "146,600",
+  "buy" : "146,600",
+  "sell" : "148,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "146,600",
+    "BuyValue" : 1.466E8,
+    "Sell" : "148,600",
+    "SellValue" : 1.486E8,
+    "BuyDiffer" : "-600",
+    "BuyDifferValue" : -600000.0,
+    "SellDiffer" : "-600",
+    "SellDifferValue" : -600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "22/10/2025",
+  "type" : "146,600",
+  "buy" : "146,600",
+  "sell" : "148,600",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "146,600",
+    "BuyValue" : 1.466E8,
+    "Sell" : "148,600",
+    "SellValue" : 1.486E8,
+    "BuyDiffer" : "-600",
+    "BuyDifferValue" : -600000.0,
+    "SellDiffer" : "-600",
+    "SellDifferValue" : -600000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "23/10/2025",
+  "type" : "147,500",
+  "buy" : "147,500",
+  "sell" : "149,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "147,500",
+    "BuyValue" : 1.475E8,
+    "Sell" : "149,500",
+    "SellValue" : 1.495E8,
+    "BuyDiffer" : "300",
+    "BuyDifferValue" : 300000.0,
+    "SellDiffer" : "300",
+    "SellDifferValue" : 300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "23/10/2025",
+  "type" : "147,500",
+  "buy" : "147,500",
+  "sell" : "149,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "147,500",
+    "BuyValue" : 1.475E8,
+    "Sell" : "149,500",
+    "SellValue" : 1.495E8,
+    "BuyDiffer" : "300",
+    "BuyDifferValue" : 300000.0,
+    "SellDiffer" : "300",
+    "SellDifferValue" : 300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "23/10/2025",
+  "type" : "147,500",
+  "buy" : "147,500",
+  "sell" : "149,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "147,500",
+    "BuyValue" : 1.475E8,
+    "Sell" : "149,500",
+    "SellValue" : 1.495E8,
+    "BuyDiffer" : "300",
+    "BuyDifferValue" : 300000.0,
+    "SellDiffer" : "300",
+    "SellDifferValue" : 300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "23/10/2025",
+  "type" : "147,500",
+  "buy" : "147,500",
+  "sell" : "149,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "147,500",
+    "BuyValue" : 1.475E8,
+    "Sell" : "149,500",
+    "SellValue" : 1.495E8,
+    "BuyDiffer" : "300",
+    "BuyDifferValue" : 300000.0,
+    "SellDiffer" : "300",
+    "SellDifferValue" : 300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "23/10/2025",
+  "type" : "147,500",
+  "buy" : "147,500",
+  "sell" : "149,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "147,500",
+    "BuyValue" : 1.475E8,
+    "Sell" : "149,500",
+    "SellValue" : 1.495E8,
+    "BuyDiffer" : "300",
+    "BuyDifferValue" : 300000.0,
+    "SellDiffer" : "300",
+    "SellDifferValue" : 300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "23/10/2025",
+  "type" : "147,500",
+  "buy" : "147,500",
+  "sell" : "149,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "147,500",
+    "BuyValue" : 1.475E8,
+    "Sell" : "149,500",
+    "SellValue" : 1.495E8,
+    "BuyDiffer" : "300",
+    "BuyDifferValue" : 300000.0,
+    "SellDiffer" : "300",
+    "SellDifferValue" : 300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "23/10/2025",
+  "type" : "147,500",
+  "buy" : "147,500",
+  "sell" : "149,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "147,500",
+    "BuyValue" : 1.475E8,
+    "Sell" : "149,500",
+    "SellValue" : 1.495E8,
+    "BuyDiffer" : "300",
+    "BuyDifferValue" : 300000.0,
+    "SellDiffer" : "300",
+    "SellDifferValue" : 300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "23/10/2025",
+  "type" : "147,500",
+  "buy" : "147,500",
+  "sell" : "149,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "147,500",
+    "BuyValue" : 1.475E8,
+    "Sell" : "149,500",
+    "SellValue" : 1.495E8,
+    "BuyDiffer" : "300",
+    "BuyDifferValue" : 300000.0,
+    "SellDiffer" : "300",
+    "SellDifferValue" : 300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "23/10/2025",
+  "type" : "147,500",
+  "buy" : "147,500",
+  "sell" : "149,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "147,500",
+    "BuyValue" : 1.475E8,
+    "Sell" : "149,500",
+    "SellValue" : 1.495E8,
+    "BuyDiffer" : "300",
+    "BuyDifferValue" : 300000.0,
+    "SellDiffer" : "300",
+    "SellDifferValue" : 300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "23/10/2025",
+  "type" : "147,500",
+  "buy" : "147,500",
+  "sell" : "149,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "147,500",
+    "BuyValue" : 1.475E8,
+    "Sell" : "149,500",
+    "SellValue" : 1.495E8,
+    "BuyDiffer" : "300",
+    "BuyDifferValue" : 300000.0,
+    "SellDiffer" : "300",
+    "SellDifferValue" : 300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "23/10/2025",
+  "type" : "147,500",
+  "buy" : "147,500",
+  "sell" : "149,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "147,500",
+    "BuyValue" : 1.475E8,
+    "Sell" : "149,500",
+    "SellValue" : 1.495E8,
+    "BuyDiffer" : "300",
+    "BuyDifferValue" : 300000.0,
+    "SellDiffer" : "300",
+    "SellDifferValue" : 300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "23/10/2025",
+  "type" : "147,500",
+  "buy" : "147,500",
+  "sell" : "149,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "147,500",
+    "BuyValue" : 1.475E8,
+    "Sell" : "149,500",
+    "SellValue" : 1.495E8,
+    "BuyDiffer" : "300",
+    "BuyDifferValue" : 300000.0,
+    "SellDiffer" : "300",
+    "SellDifferValue" : 300000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "24/10/2025",
+  "type" : "146,500",
+  "buy" : "146,500",
+  "sell" : "148,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "146,500",
+    "BuyValue" : 1.465E8,
+    "Sell" : "148,500",
+    "SellValue" : 1.485E8,
+    "BuyDiffer" : "-700",
+    "BuyDifferValue" : -700000.0,
+    "SellDiffer" : "-700",
+    "SellDifferValue" : -700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "24/10/2025",
+  "type" : "146,500",
+  "buy" : "146,500",
+  "sell" : "148,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "146,500",
+    "BuyValue" : 1.465E8,
+    "Sell" : "148,500",
+    "SellValue" : 1.485E8,
+    "BuyDiffer" : "-700",
+    "BuyDifferValue" : -700000.0,
+    "SellDiffer" : "-700",
+    "SellDifferValue" : -700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "24/10/2025",
+  "type" : "146,500",
+  "buy" : "146,500",
+  "sell" : "148,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "146,500",
+    "BuyValue" : 1.465E8,
+    "Sell" : "148,500",
+    "SellValue" : 1.485E8,
+    "BuyDiffer" : "-700",
+    "BuyDifferValue" : -700000.0,
+    "SellDiffer" : "-700",
+    "SellDifferValue" : -700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "24/10/2025",
+  "type" : "146,500",
+  "buy" : "146,500",
+  "sell" : "148,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "146,500",
+    "BuyValue" : 1.465E8,
+    "Sell" : "148,500",
+    "SellValue" : 1.485E8,
+    "BuyDiffer" : "-700",
+    "BuyDifferValue" : -700000.0,
+    "SellDiffer" : "-700",
+    "SellDifferValue" : -700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "24/10/2025",
+  "type" : "146,500",
+  "buy" : "146,500",
+  "sell" : "148,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "146,500",
+    "BuyValue" : 1.465E8,
+    "Sell" : "148,500",
+    "SellValue" : 1.485E8,
+    "BuyDiffer" : "-700",
+    "BuyDifferValue" : -700000.0,
+    "SellDiffer" : "-700",
+    "SellDifferValue" : -700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "24/10/2025",
+  "type" : "146,500",
+  "buy" : "146,500",
+  "sell" : "148,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "146,500",
+    "BuyValue" : 1.465E8,
+    "Sell" : "148,500",
+    "SellValue" : 1.485E8,
+    "BuyDiffer" : "-700",
+    "BuyDifferValue" : -700000.0,
+    "SellDiffer" : "-700",
+    "SellDifferValue" : -700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "24/10/2025",
+  "type" : "146,500",
+  "buy" : "146,500",
+  "sell" : "148,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "146,500",
+    "BuyValue" : 1.465E8,
+    "Sell" : "148,500",
+    "SellValue" : 1.485E8,
+    "BuyDiffer" : "-700",
+    "BuyDifferValue" : -700000.0,
+    "SellDiffer" : "-700",
+    "SellDifferValue" : -700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "24/10/2025",
+  "type" : "146,500",
+  "buy" : "146,500",
+  "sell" : "148,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "146,500",
+    "BuyValue" : 1.465E8,
+    "Sell" : "148,500",
+    "SellValue" : 1.485E8,
+    "BuyDiffer" : "-700",
+    "BuyDifferValue" : -700000.0,
+    "SellDiffer" : "-700",
+    "SellDifferValue" : -700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "24/10/2025",
+  "type" : "146,500",
+  "buy" : "146,500",
+  "sell" : "148,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "146,500",
+    "BuyValue" : 1.465E8,
+    "Sell" : "148,500",
+    "SellValue" : 1.485E8,
+    "BuyDiffer" : "-700",
+    "BuyDifferValue" : -700000.0,
+    "SellDiffer" : "-700",
+    "SellDifferValue" : -700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "24/10/2025",
+  "type" : "146,500",
+  "buy" : "146,500",
+  "sell" : "148,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "146,500",
+    "BuyValue" : 1.465E8,
+    "Sell" : "148,500",
+    "SellValue" : 1.485E8,
+    "BuyDiffer" : "-700",
+    "BuyDifferValue" : -700000.0,
+    "SellDiffer" : "-700",
+    "SellDifferValue" : -700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "24/10/2025",
+  "type" : "146,500",
+  "buy" : "146,500",
+  "sell" : "148,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "146,500",
+    "BuyValue" : 1.465E8,
+    "Sell" : "148,500",
+    "SellValue" : 1.485E8,
+    "BuyDiffer" : "-700",
+    "BuyDifferValue" : -700000.0,
+    "SellDiffer" : "-700",
+    "SellDifferValue" : -700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "24/10/2025",
+  "type" : "146,500",
+  "buy" : "146,500",
+  "sell" : "148,500",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "146,500",
+    "BuyValue" : 1.465E8,
+    "Sell" : "148,500",
+    "SellValue" : 1.485E8,
+    "BuyDiffer" : "-700",
+    "BuyDifferValue" : -700000.0,
+    "SellDiffer" : "-700",
+    "SellDifferValue" : -700000.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "25/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hồ Chí Minh",
+    "Buy" : "147,200",
+    "BuyValue" : 1.472E8,
+    "Sell" : "149,200",
+    "SellValue" : 1.492E8,
+    "BuyDiffer" : "0",
+    "BuyDifferValue" : 0.0,
+    "SellDiffer" : "0",
+    "SellDifferValue" : 0.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "25/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Bắc",
+    "Buy" : "147,200",
+    "BuyValue" : 1.472E8,
+    "Sell" : "149,200",
+    "SellValue" : 1.492E8,
+    "BuyDiffer" : "0",
+    "BuyDifferValue" : 0.0,
+    "SellDiffer" : "0",
+    "SellDifferValue" : 0.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "25/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hạ Long",
+    "Buy" : "147,200",
+    "BuyValue" : 1.472E8,
+    "Sell" : "149,200",
+    "SellValue" : 1.492E8,
+    "BuyDiffer" : "0",
+    "BuyDifferValue" : 0.0,
+    "SellDiffer" : "0",
+    "SellDifferValue" : 0.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "25/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Hải Phòng",
+    "Buy" : "147,200",
+    "BuyValue" : 1.472E8,
+    "Sell" : "149,200",
+    "SellValue" : 1.492E8,
+    "BuyDiffer" : "0",
+    "BuyDifferValue" : 0.0,
+    "SellDiffer" : "0",
+    "SellDifferValue" : 0.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "25/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Trung",
+    "Buy" : "147,200",
+    "BuyValue" : 1.472E8,
+    "Sell" : "149,200",
+    "SellValue" : 1.492E8,
+    "BuyDiffer" : "0",
+    "BuyDifferValue" : 0.0,
+    "SellDiffer" : "0",
+    "SellDifferValue" : 0.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "25/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Huế",
+    "Buy" : "147,200",
+    "BuyValue" : 1.472E8,
+    "Sell" : "149,200",
+    "SellValue" : 1.492E8,
+    "BuyDiffer" : "0",
+    "BuyDifferValue" : 0.0,
+    "SellDiffer" : "0",
+    "SellDifferValue" : 0.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "25/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Quảng Ngãi",
+    "Buy" : "147,200",
+    "BuyValue" : 1.472E8,
+    "Sell" : "149,200",
+    "SellValue" : 1.492E8,
+    "BuyDiffer" : "0",
+    "BuyDifferValue" : 0.0,
+    "SellDiffer" : "0",
+    "SellDifferValue" : 0.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "25/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Nha Trang",
+    "Buy" : "147,200",
+    "BuyValue" : 1.472E8,
+    "Sell" : "149,200",
+    "SellValue" : 1.492E8,
+    "BuyDiffer" : "0",
+    "BuyDifferValue" : 0.0,
+    "SellDiffer" : "0",
+    "SellDifferValue" : 0.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "25/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Biên Hòa",
+    "Buy" : "147,200",
+    "BuyValue" : 1.472E8,
+    "Sell" : "149,200",
+    "SellValue" : 1.492E8,
+    "BuyDiffer" : "0",
+    "BuyDifferValue" : 0.0,
+    "SellDiffer" : "0",
+    "SellDifferValue" : 0.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "25/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Miền Tây",
+    "Buy" : "147,200",
+    "BuyValue" : 1.472E8,
+    "Sell" : "149,200",
+    "SellValue" : 1.492E8,
+    "BuyDiffer" : "0",
+    "BuyDifferValue" : 0.0,
+    "SellDiffer" : "0",
+    "SellDifferValue" : 0.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "25/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Bạc Liêu",
+    "Buy" : "147,200",
+    "BuyValue" : 1.472E8,
+    "Sell" : "149,200",
+    "SellValue" : 1.492E8,
+    "BuyDiffer" : "0",
+    "BuyDifferValue" : 0.0,
+    "SellDiffer" : "0",
+    "SellDifferValue" : 0.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "25/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {
+    "Id" : 0,
+    "TypeName" : "Vàng SJC 1L, 10L, 1KG",
+    "BranchName" : "Cà Mau",
+    "Buy" : "147,200",
+    "BuyValue" : 1.472E8,
+    "Sell" : "149,200",
+    "SellValue" : 1.492E8,
+    "BuyDiffer" : "0",
+    "BuyDifferValue" : 0.0,
+    "SellDiffer" : "0",
+    "SellDifferValue" : 0.0,
+    "GroupDate" : "/Date(-62135596800000)/"
+  }
+}, {
+  "date" : "26/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {"Id":0,"TypeName":"Vàng SJC 1L, 10L, 1KG","BranchName":"Hồ Chí Minh","Buy":"147,200","BuyValue":1.472E8,"Sell":"149,200","SellValue":1.492E8,"BuyDiffer":"0","BuyDifferValue":0.0,"SellDiffer":"0","SellDifferValue":0.0,"GroupDate":"/Date(-62135596800000)/"}
+}, {
+  "date" : "26/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {"Id":0,"TypeName":"Vàng SJC 1L, 10L, 1KG","BranchName":"Miền Bắc","Buy":"147,200","BuyValue":1.472E8,"Sell":"149,200","SellValue":1.492E8,"BuyDiffer":"0","BuyDifferValue":0.0,"SellDiffer":"0","SellDifferValue":0.0,"GroupDate":"/Date(-62135596800000)/"}
+}, {
+  "date" : "26/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {"Id":0,"TypeName":"Vàng SJC 1L, 10L, 1KG","BranchName":"Hạ Long","Buy":"147,200","BuyValue":1.472E8,"Sell":"149,200","SellValue":1.492E8,"BuyDiffer":"0","BuyDifferValue":0.0,"SellDiffer":"0","SellDifferValue":0.0,"GroupDate":"/Date(-62135596800000)/"}
+}, {
+  "date" : "26/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {"Id":0,"TypeName":"Vàng SJC 1L, 10L, 1KG","BranchName":"Hải Phòng","Buy":"147,200","BuyValue":1.472E8,"Sell":"149,200","SellValue":1.492E8,"BuyDiffer":"0","BuyDifferValue":0.0,"SellDiffer":"0","SellDifferValue":0.0,"GroupDate":"/Date(-62135596800000)/"}
+}, {
+  "date" : "26/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {"Id":0,"TypeName":"Vàng SJC 1L, 10L, 1KG","BranchName":"Miền Trung","Buy":"147,200","BuyValue":1.472E8,"Sell":"149,200","SellValue":1.492E8,"BuyDiffer":"0","BuyDifferValue":0.0,"SellDiffer":"0","SellDifferValue":0.0,"GroupDate":"/Date(-62135596800000)/"}
+}, {
+  "date" : "26/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {"Id":0,"TypeName":"Vàng SJC 1L, 10L, 1KG","BranchName":"Huế","Buy":"147,200","BuyValue":1.472E8,"Sell":"149,200","SellValue":1.492E8,"BuyDiffer":"0","BuyDifferValue":0.0,"SellDiffer":"0","SellDifferValue":0.0,"GroupDate":"/Date(-62135596800000)/"}
+}, {
+  "date" : "26/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {"Id":0,"TypeName":"Vàng SJC 1L, 10L, 1KG","BranchName":"Quảng Ngãi","Buy":"147,200","BuyValue":1.472E8,"Sell":"149,200","SellValue":1.492E8,"BuyDiffer":"0","BuyDifferValue":0.0,"SellDiffer":"0","SellDifferValue":0.0,"GroupDate":"/Date(-62135596800000)/"}
+}, {
+  "date" : "26/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {"Id":0,"TypeName":"Vàng SJC 1L, 10L, 1KG","BranchName":"Nha Trang","Buy":"147,200","BuyValue":1.472E8,"Sell":"149,200","SellValue":1.492E8,"BuyDiffer":"0","BuyDifferValue":0.0,"SellDiffer":"0","SellDifferValue":0.0,"GroupDate":"/Date(-62135596800000)/"}
+}, {
+  "date" : "26/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {"Id":0,"TypeName":"Vàng SJC 1L, 10L, 1KG","BranchName":"Biên Hòa","Buy":"147,200","BuyValue":1.472E8,"Sell":"149,200","SellValue":1.492E8,"BuyDiffer":"0","BuyDifferValue":0.0,"SellDiffer":"0","SellDifferValue":0.0,"GroupDate":"/Date(-62135596800000)/"}
+}, {
+  "date" : "26/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {"Id":0,"TypeName":"Vàng SJC 1L, 10L, 1KG","BranchName":"Miền Tây","Buy":"147,200","BuyValue":1.472E8,"Sell":"149,200","SellValue":1.492E8,"BuyDiffer":"0","BuyDifferValue":0.0,"SellDiffer":"0","SellDifferValue":0.0,"GroupDate":"/Date(-62135596800000)/"}
+}, {
+  "date" : "26/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {"Id":0,"TypeName":"Vàng SJC 1L, 10L, 1KG","BranchName":"Bạc Liêu","Buy":"147,200","BuyValue":1.472E8,"Sell":"149,200","SellValue":1.492E8,"BuyDiffer":"0","BuyDifferValue":0.0,"SellDiffer":"0","SellDifferValue":0.0,"GroupDate":"/Date(-62135596800000)/"}
+}, {
+  "date" : "26/10/2025",
+  "type" : "147,200",
+  "buy" : "147,200",
+  "sell" : "149,200",
+  "payload" : {"Id":0,"TypeName":"Vàng SJC 1L, 10L, 1KG","BranchName":"Cà Mau","Buy":"147,200","BuyValue":1.472E8,"Sell":"149,200","SellValue":1.492E8,"BuyDiffer":"0","BuyDifferValue":0.0,"SellDiffer":"0","SellDifferValue":0.0,"GroupDate":"/Date(-62135596800000)/"}
+} ]

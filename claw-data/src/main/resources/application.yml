@@ -6,10 +6,11 @@ spring:
 
 app:
   endpoint: "https://sjc.com.vn/GoldPrice/Services/PriceService.ashx"
-  to-date: "19/10/2025"
+  to-date: "26/10/2025"
   days: 365
   output-dir: "data/sjc"
-  single-file: "data/sjc/sjc_prices.csv"
+  csv-file: "data/sjc/sjc_prices.csv"
+  json-file: "data/sjc/sjc_prices.json"
   user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36"
   referer: "https://sjc.com.vn/"
   delay-ms: 500

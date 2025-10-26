@@ -16,7 +16,8 @@ public class AppProps {
     private String userAgent;
     private String referer;
     private long delayMs;
-    private String singleFile;
+    private String csvFile;
+    private String jsonFile;
     @Getter
     private String progressFile; // ví dụ: data/sjc/_progress.json
 }
