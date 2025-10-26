@@ -1,8 +1,6 @@
 package main.spark.module.entity;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
 import lombok.Data;
 
 @Data
@@ -10,6 +8,7 @@ import lombok.Data;
 @Table(name = "SOURCE_DIMENSION")
 public class SourceDimension {
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String sourceName;
     private String sourceUrl;

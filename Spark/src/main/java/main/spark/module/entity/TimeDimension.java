@@ -1,9 +1,9 @@
 package main.spark.module.entity;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
 import lombok.Data;
+
+import java.time.LocalDate;
 
 @Data
 @Entity
@@ -15,4 +15,5 @@ public class TimeDimension {
     private String month;
     private String quarter;
     private String year;
+    private LocalDate dateTime;
 }
