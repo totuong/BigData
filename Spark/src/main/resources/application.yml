@@ -9,10 +9,13 @@ spring:
     driver-class-name: oracle.jdbc.OracleDriver
 
   jpa:
+    hibernate:
+      ddl-auto: validate   # ✅ Chỉ xác nhận bảng tồn tại, KHÔNG tạo/xóa/đổi cấu trúc
     show-sql: true
     properties:
       hibernate:
         format_sql: true
+        dialect: org.hibernate.dialect.OracleDialect
 
 spark:
   master: local[*]
