@@ -8,5 +8,6 @@ import java.util.Optional;
 
 @Repository
 public interface TimeDimensionRepository extends JpaRepository<TimeDimension, Long> {
-    Optional<TimeDimension> findByDay(String dateStr);
+    Optional<TimeDimension> findByDay(Integer dateStr);
+    Optional<TimeDimension> findByDayIsAndMonthIsAndYearIsAndHourIs(Integer day,Integer month,Integer year,Integer hour);
 }
