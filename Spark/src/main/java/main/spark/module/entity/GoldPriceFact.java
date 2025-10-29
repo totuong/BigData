@@ -13,14 +13,14 @@ public class GoldPriceFact {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-//    private Long sourceId;
+    //    private Long sourceId;
 //    private Long typeId;
 //    private Long locationId;
 //    private Long timeId;
     private Double buyPrice;
     private Double sellPrice;
-    private Double priceChange;
     private String unit;
+    private Integer isDeleted = 0;
     @CreationTimestamp
     private LocalDateTime recordedAt;
 

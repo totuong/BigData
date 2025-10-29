@@ -9,5 +9,7 @@ import java.util.Optional;
 
 @Repository
 public interface LocationDimensionRepository extends JpaRepository<LocationDimension, Long> {
-    Optional<LocationDimension> findByCity(String branch);
+    Optional<LocationDimension> findByCityIs(String branch);
+    Optional<LocationDimension> findByRegionIs(String region);
+    Optional<LocationDimension> findByCityIsAndRegionIs(String branch,String region);
 }

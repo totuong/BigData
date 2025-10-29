@@ -3,7 +3,8 @@ spring:
     name: sjc-crawler
   main:
     banner-mode: "off"
-
+server:
+  port: 8081
 app:
   endpoint: "https://sjc.com.vn/GoldPrice/Services/PriceService.ashx"
   to-date: "26/10/2025"

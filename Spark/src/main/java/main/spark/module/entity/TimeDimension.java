@@ -10,10 +10,11 @@ import java.time.LocalDate;
 @Table(name = "TIME_DIMENSION")
 public class TimeDimension {
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-    private String day;
-    private String month;
-    private String quarter;
-    private String year;
+    private Integer day;
+    private Integer month;
+    private Integer year;
+    private Integer hour;
     private LocalDate dateTime;
 }
