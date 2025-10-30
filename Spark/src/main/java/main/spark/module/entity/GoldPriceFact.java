@@ -36,5 +36,6 @@ public class GoldPriceFact {
     @ManyToOne
     @JoinColumn(name = "time_id")
     private TimeDimension timeDimension;
+    private String recordedBy = "totuong";
 
 }
