@@ -14,9 +14,9 @@ public class SjcDataJob {
 
     @PostConstruct
     public void sync() {
-//        log.info("🚀 Bắt đầu đồng bộ dữ liệu SJC từ HDFS...");
-//        sparkJobService.syncSJC();
-//        log.info("✅ Hoàn thành đồng bộ dữ liệu SJC.");
+        log.info("🚀 Bắt đầu đồng bộ dữ liệu SJC từ HDFS...");
+        sparkJobService.syncSJC();
+        log.info("✅ Hoàn thành đồng bộ dữ liệu SJC.");
         log.info("🚀 Bắt đầu đồng bộ dữ liệu PNJ...");
         sparkJobService.syncNestedPrices();
         log.info("✅ Hoàn thành đồng bộ dữ liệu PNJ");
